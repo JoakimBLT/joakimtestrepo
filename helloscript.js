@@ -7,3 +7,8 @@ function bye() {
 }
 
 
+function helloJossu() {
+  return "Hello, Jossu"
+}
+
+// there's a bug in the code above
